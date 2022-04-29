@@ -7,7 +7,7 @@ All experiments performed as part of CEE82A - High Performance Computing.
 | 2 | Floyd's Algorithm |
 | 3 | Matrix Vector Multiplication |
 | 4 | Document Classification |
-| 5 | Matrix Vector Multiplication |
+| 5 | Matrix Matrix Multiplication |
 | 6 | Solving Linear System of Equations |
 | 7 | Finite Difference Methods |
 | 8 | Hyperquicksort |
