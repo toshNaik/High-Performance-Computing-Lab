@@ -1,0 +1,7 @@
+Time for 2 process(es) and 6 rows: 0.3041 ms
+Time for 3 process and 6 rows: 15.3695 ms
+Time for 3 process and 6 rows: 0.3736 ms
+Time for 3 process and 6 rows: 0.3792 ms
+Time for 4 process and 6 rows: 0.4875 ms
+Time for 4 process and 6 rows: 0.1918 ms
+Time for 4 process and 6 rows: 0.32 ms
