@@ -1,4 +1,4 @@
-# High-Performance-Computing-Lab
+# High Performance Computing Lab
 All experiments performed as part of CEE82A - High Performance Computing.
 
 | Experiments | Title |
